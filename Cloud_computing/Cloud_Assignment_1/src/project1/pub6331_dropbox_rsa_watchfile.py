@@ -1,7 +1,7 @@
 '''
 Created on Jan 30, 2015
 
-@author: Puneeth U Bharadwaj
+@author: Pavan S Koundinya
 @course: CSE6331
 @lab_number: Programming Assignment 1
 
