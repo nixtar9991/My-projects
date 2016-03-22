@@ -1,8 +1,3 @@
-'''
-Created on Jan 28, 2015
-
-@author: Puneeth U Bharadwaj
-'''
 
 import os, time
  
