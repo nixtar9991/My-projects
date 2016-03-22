@@ -1,10 +1,4 @@
-'''
-Created on Jan 29, 2015
 
-@author: Puneeth U Bharadwaj
-
-Ref: http://stuvel.eu/files/python-rsa-doc/usage.html
-'''
 
 import rsa
 from rsa.bigfile import *
