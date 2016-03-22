@@ -1,8 +1,4 @@
-'''
-Created on Feb 28, 2015
 
-@author: puneeth
-'''
 
 import os, time, MySQLdb, memcache
 
