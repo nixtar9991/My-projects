@@ -1,8 +1,4 @@
-'''
-Created on Feb 9, 2015
 
-@author: Puneeth U Bharadwaj
-'''
 
 import gnupg
 from pprint import pprint
