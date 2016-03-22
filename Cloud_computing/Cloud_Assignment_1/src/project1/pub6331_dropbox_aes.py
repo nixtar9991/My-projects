@@ -1,12 +1,4 @@
-'''
-Created on Jan 27, 2015
 
-@author: Puneeth U Bharadwaj
-
-This is the dropbox project
-
-Ref: http://eli.thegreenplace.net/2010/06/25/aes-encryption-of-files-in-python-with-pycrypto
-'''
 
 # Include the Dropbox SDK
 import os, random, struct
