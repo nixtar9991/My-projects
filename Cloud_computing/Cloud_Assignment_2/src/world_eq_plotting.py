@@ -1,8 +1,4 @@
-'''
-Created on Feb 25, 2015
 
-@author: puneeth
-'''
 
 import csv
 from mpl_toolkits.basemap import Basemap
